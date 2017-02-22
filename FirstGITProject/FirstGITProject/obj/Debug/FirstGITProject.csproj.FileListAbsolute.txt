@@ -1,1 +1,6 @@
 C:\Projects\MyFirstGITRepo\FirstGITProject\FirstGITProject\bin\Debug\FirstGITProject.exe.config
+C:\Projects\MyFirstGITRepo\FirstGITProject\FirstGITProject\bin\Debug\FirstGITProject.exe
+C:\Projects\MyFirstGITRepo\FirstGITProject\FirstGITProject\bin\Debug\FirstGITProject.pdb
+C:\Projects\MyFirstGITRepo\FirstGITProject\FirstGITProject\obj\Debug\FirstGITProject.csprojResolveAssemblyReference.cache
+C:\Projects\MyFirstGITRepo\FirstGITProject\FirstGITProject\obj\Debug\FirstGITProject.exe
+C:\Projects\MyFirstGITRepo\FirstGITProject\FirstGITProject\obj\Debug\FirstGITProject.pdb
