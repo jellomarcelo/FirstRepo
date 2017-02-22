@@ -1,0 +1,1 @@
+C:\Projects\MyFirstGITRepo\FirstGITProject\FirstGITProject\bin\Debug\FirstGITProject.exe.config
